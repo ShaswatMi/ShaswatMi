@@ -16,7 +16,7 @@ I'm passionate about technology, innovation, and building solutions that make an
 
 ## 🌐 How to Reach Me
 - **Email**: [shaswat.mishra81@gmail.com](mailto:shaswat.mishra81@gmail.com)
-- **LinkedIn**: [Shaswat Mishra](https://www.linkedin.com/in/shaswat-mishra)
+- **LinkedIn**: [Shaswat Mishra](https://www.linkedin.com/in/shaswatmi81/)
 
 <!--
 **ShaswatMi/ShaswatMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
