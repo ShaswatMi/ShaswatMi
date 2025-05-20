@@ -8,7 +8,7 @@ I'm passionate about technology, innovation, and building solutions that make an
 ## 🛠️ Skills & Technologies
 
 - **Languages**: JAVA, JavaScript, SQL, R, Python
-- **Frameworks**: Scikit, Django, Flask, ReactJS, NodeJS
+- **Frameworks**: ReactJS, NodeJS
 - **Tools**: GIT, GitHub, MySQL, MongoDB
 - **Analytics Tools**: Excel, WEKA, Tableau, PowerBI
 - **Platforms**: Linux, Web, Windows
